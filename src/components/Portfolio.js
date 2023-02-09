@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import Home from './Home';
 import bg from "../assets/images/bg.jpg"
 import Navigation from './Navigation';
+import Projects from './Projects';
+import Footer from './Footer';
 
 export default function Portfolio() {
     const [currentPage, setCurrentPage] = useState('Home');
@@ -11,7 +13,7 @@ export default function Portfolio() {
             return <Home />;
         }
         if (currentPage === 'Projects') {
-            return;
+            return <Projects />;
         }
         if (currentPage === 'Contact') {
             return;
@@ -25,11 +27,12 @@ export default function Portfolio() {
 
     return (
         <>
-             <div style={{backgroundImage: `url(${bg})`}} className=' bg-center bg-cover bg-no-repeat h-screen flex flex-col   '>
+             <div style={{backgroundImage: `${currentPage === "Home" ? "url("+bg+")" : ""}`}} className={` ${currentPage === "Home" ? "bg-center bg-cover bg-no-repeat" : "bg-black"} h-screen flex flex-col`}>
                 <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
                 { renderPage() }
-
+                <Footer />
              </div>
+
             
         </>
     );

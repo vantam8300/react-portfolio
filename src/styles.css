@@ -59,10 +59,10 @@ swiper {
   }
 }
 
-.bla{
+.list-item{
   transition: transform ease .4s;
   padding: 0 10px;
 }
-.bla:hover{
+.list-item:hover{
   transform: scale(1.3);
 }

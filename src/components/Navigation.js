@@ -15,9 +15,9 @@ export default function Navigation({ currentPage, handlePageChange }) {
 
                 <nav className={` flex justify-center items-center gap-x-10 ${durum && "lg:hidden"} lg:fixed lg:top-0 -z-20  lg:flex-col lg:bg-black lg:w-full lg:h-[450px] lg:left-0 h-full lg:items-start  lg:pl-6  cursor-pointer lg:pt-20`}  >
                     <ul className=' flex gap-10 text-3xl mr-4 lg:flex-col lg:gap-6 '>
-                        <li className='bla'><a href="#home"></a>Home</li>
-                        <li className='bla'><a href="#skills"></a>Skills</li>
-                        <li className='bla'><a href="#projects"></a>Projects</li>
+                        <li className='list-item'><button onClick={() => handlePageChange('Home')}>Home</button></li>
+                        <li className='list-item'><button onClick={() => handlePageChange('Projects')}>Projects</button></li>
+                        <li className='list-item'><button onClick={() => handlePageChange('Resume')}>Resume</button></li>
                     </ul>
                     <div className="icon text-lg flex gap-4  lg:gap-8 lg:my-10">
                         <i className="border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black"><FontAwesomeIcon icon={ faLinkedin }/></i>
