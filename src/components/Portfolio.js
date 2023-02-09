@@ -27,13 +27,12 @@ export default function Portfolio() {
 
     return (
         <>
-             <div style={{backgroundImage: `${currentPage === "Home" ? "url("+bg+")" : ""}`}} className={` ${currentPage === "Home" ? "bg-center bg-cover bg-no-repeat" : "bg-black"} h-screen flex flex-col`}>
+             <div style={{backgroundImage: `${currentPage === "Home" ? "url("+bg+")" : ""}`}} className={` ${currentPage === "Home" ? "bg-center bg-cover bg-no-repeat" : "bg-black"} h-screen w-full flex flex-col`}>
                 <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
                 { renderPage() }
-                <Footer />
+                
              </div>
-
-            
+             <Footer />
         </>
     );
 }
