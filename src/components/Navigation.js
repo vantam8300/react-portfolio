@@ -32,7 +32,7 @@ export default function Navigation({ currentPage, handlePageChange }) {
                         </a>
                     </div>
                     <div className="btn">
-                        <button className='border-[1px] border-white border-solid py-2 px-4 hover:bg-white hover:text-black font-bold'>Let's Connect</button>
+                        <button onClick={() => handlePageChange('Contact')} className='border-[1px] border-white border-solid py-2 px-4 hover:bg-white hover:text-black font-bold'>Let's Connect</button>
                     </div>
                 </nav>
                 <i onClick={e => setDurum(!durum)} className="hidden lg:block text-2xl cursor-pointer" ><FontAwesomeIcon icon={faBars} /></i>

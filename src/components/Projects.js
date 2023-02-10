@@ -64,7 +64,7 @@ function Projects() {
 
     return (
         <>
-            <div className="projects bg-black text-white py-10">
+            <div className="projects bg-black px-16 lg:p-4 text-white">
                 <div className="flex justify-center items-center gap-4 mt-12 mb-2 ">
                     <button
                         className={`font-bold text-[30px] border-2 border-black rounded-[6px] p-[4px] bg-[linear-gradient(90deg,#b004b0,#38097a)]`}
