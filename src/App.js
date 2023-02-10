@@ -9,4 +9,6 @@ function App() {
   );
 }
 
+document.title = "Van Tam Portfolio"
+
 export default App;
