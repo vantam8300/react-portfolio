@@ -1,6 +1,6 @@
 # Van Tam Portfolio
 
-This project is a single-page application using React.js to dynamically render content to create a portfolio that includes "About me", "Contact me", "Resume", and "Portfolio" pages. Take a look at my work through my portfolio page and get to know me a little bit! Download my resume to view my work experience and where to find me.
+This project is a single-page application using React.js to dynamically render content to create a portfolio that includes "Contact me", "Resume", and "Projects" pages. Take a look at my work through my portfolio page and get to know me a little bit! Download my resume to view my work experience and where to find me.
 
 ## Table of Contents
 - [Instructions](#instructions)
