@@ -15,7 +15,7 @@ export default function Home({handlePageChange}) {
                             <button className=' border-2 border-[#b0aaaa] font-bold text-white bg-[linear-gradient(90deg,#b004b0,#38097a)] p-4 rounded-2xl'>Welcome to my Portfolio</button>
                         </div>
                         <h1 className='text-white text-5xl font-bold'>Hi! I'm Van Tam</h1>
-                        <p className='text-white py-4 max-w-lg '>Lorem ipsum dolor sit amet consectetur  adipisicing elit. In qui impedit  sunt, est molestiae ullam. Saepe voluptatum ducimus adipisci pariatur. adipisicing elit.  In qui impedit ipsum dolor sit amet consectetur</p>
+                        <p className='text-white py-4 max-w-lg '>I am Full Stack Web Developer based in the San Francisco Bay Area with a Bachelor’s Degree who's experienced in building complex applications with modern technologies</p>
                         <button className='  text-white text-2xl' onClick={() => handlePageChange('Contact')}>Let's Connect <FontAwesomeIcon icon={faArrowRight} /> </button>
                     </div>
                     <div className="image banner-astronout lg:hidden absolute w-[400px] right-28">

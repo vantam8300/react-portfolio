@@ -72,12 +72,6 @@ function Projects() {
                         Projects
                     </button>
                 </div>
-                <p className="text-center  max-w-[1000px] lg:px-6 mx-auto text-white">
-                    lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur,
-                    cupiditate! Molestiae placeat architecto nihil obcaecati illum minima
-                    incidunt dolores? Officia consectetur optio non totam cum eos soluta
-                    ipsa et quod.
-                </p>
 
                 <div className="grid grid-cols-3 p-10 gap-8 lg:grid-cols-2 tl:grid-cols-1 ">
                     {projects.map((item, i) => <ProjectCard key={i} item={item} />)
