@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.157ed8af.css",
-    "main.js": "/react-portfolio/static/js/main.be14ffe1.js",
+    "main.js": "/react-portfolio/static/js/main.559cacc9.js",
     "static/media/socialNetwork.gif": "/react-portfolio/static/media/socialNetwork.ef539b44eb175196b768.gif",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/bg.jpg": "/react-portfolio/static/media/bg.55385c91823e29ff6916.jpg",
+    "static/media/projectTracker.PNG": "/react-portfolio/static/media/projectTracker.e60e78fdf54d20f9e623.PNG",
     "static/media/banner-bg.png": "/react-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/fontawesome-webfont.eot": "/react-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/astronout.png": "/react-portfolio/static/media/astronout.b42be4cff9123f7fe6b8.png",
     "static/media/microtransaction.PNG": "/react-portfolio/static/media/microtransaction.cd9b71d2c8483e2bb0aa.PNG",
-    "static/media/hellobud.png": "/react-portfolio/static/media/hellobud.ad7c08d6cba22069ddac.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/contact-img.svg": "/react-portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
@@ -20,10 +20,10 @@
     "static/media/realTimeChat.PNG": "/react-portfolio/static/media/realTimeChat.b4e2ed0acab63111868b.PNG",
     "index.html": "/react-portfolio/index.html",
     "main.157ed8af.css.map": "/react-portfolio/static/css/main.157ed8af.css.map",
-    "main.be14ffe1.js.map": "/react-portfolio/static/js/main.be14ffe1.js.map"
+    "main.559cacc9.js.map": "/react-portfolio/static/js/main.559cacc9.js.map"
   },
   "entrypoints": [
     "static/css/main.157ed8af.css",
-    "static/js/main.be14ffe1.js"
+    "static/js/main.559cacc9.js"
   ]
 }
