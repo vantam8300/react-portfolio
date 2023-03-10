@@ -2,7 +2,7 @@ import React from "react";
 import microtransaction from '../assets/images/microtransaction.PNG'
 import chatGPT from '../assets/images/chatGPT2.PNG'
 import realTimeChat from '../assets/images/realTimeChat.PNG'
-import hellobud from '../assets/images/hellobud.png'
+import projectTracker from '../assets/images/projectTracker.PNG'
 import jate from '../assets/images/jate.PNG'
 import socialNetwork from '../assets/images/socialNetwork.gif'
 import "../styles.css";
@@ -37,11 +37,11 @@ function Projects() {
         },
         {
             id: 4,
-            title: "HelloBud",
-            description: "MVC/Express/Sequelize/Node/HTML/Handlebars",
-            githubPage: "https://github.com/D0KD0/HelloBud",
-            deployPage: "https://hellobud-app.herokuapp.com/",
-            img: hellobud,
+            title: "Project Tracker",
+            description: "MERN/GraphQL",
+            githubPage: "https://github.com/D0KD0/Project_tracker",
+            deployPage: "https://project--tracker.herokuapp.com/",
+            img: projectTracker,
         },
         {
             id: 5,
