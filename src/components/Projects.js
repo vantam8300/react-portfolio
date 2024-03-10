@@ -4,7 +4,7 @@ import chatGPT from '../assets/images/chatGPT2.PNG'
 import realTimeChat from '../assets/images/realTimeChat.PNG'
 import projectTracker from '../assets/images/projectTracker.PNG'
 import jate from '../assets/images/jate.PNG'
-import socialNetwork from '../assets/images/socialNetwork.gif'
+import bookSearchEngine from '../assets/images/bookSearchEngine.PNG'
 import "../styles.css";
 import ProjectCard from "./ProjectCard";
 
@@ -53,11 +53,11 @@ function Projects() {
         },
         {
             id: 6,
-            title: "Social-Network-API",
-            description: "Mongodb/Mongoose/Express",
-            githubPage: "https://github.com/vantam8300/social-network-api",
-            // deployPage: "",
-            img: socialNetwork,
+            title: "Book Search Engine",
+            description: "MERN/Rest API/Apollo",
+            githubPage: "https://github.com/vantam8300/book-search-engine",
+            deployPage: "https://van-book-search-engine.herokuapp.com/",
+            img: bookSearchEngine,
         },
         
     ];
