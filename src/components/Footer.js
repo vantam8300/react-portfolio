@@ -7,7 +7,7 @@ function Footer() {
         <>
             <div className="footer bg-black">
                 <div className="wrap flex justify-between items-center px-12 text-white font-bold py-6 tl:px-4 tl:py-4 ">
-                    <h1 className='text-3xl'>Van Tam</h1>
+                    <h1 className='text-3xl'>Van Tam Chau</h1>
                     <div className='flex gap-4 cursor-pointer '>
                         <a href='https://www.linkedin.com/in/van-tam-chau-80062323b/' rel="noreferrer" target='_blank'>
                             <i className="border-[1px] border-white p-2 rounded-[100%] hover:bg-white hover:text-black">

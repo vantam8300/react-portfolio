@@ -14,7 +14,7 @@ export default function Home({handlePageChange}) {
                         <div className="btn py-3">
                             <button className=' border-2 border-[#b0aaaa] font-bold text-white bg-[linear-gradient(90deg,#b004b0,#38097a)] p-4 rounded-2xl'>Welcome to my Portfolio</button>
                         </div>
-                        <h1 className='text-white text-5xl font-bold'>Hi! I'm Van Tam</h1>
+                        <h1 className='text-white text-5xl font-bold'>Hi! I'm Van Tam Chau</h1>
                         <p className='text-white py-4 max-w-lg '>I am Full Stack Web Developer based in the San Francisco Bay Area with a Bachelor’s Degree who's experienced in building complex applications with modern technologies</p>
                         <button className='  text-white text-2xl' onClick={() => handlePageChange('Contact')}>Let's Connect <FontAwesomeIcon icon={faArrowRight} /> </button>
                     </div>
