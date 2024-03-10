@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.157ed8af.css",
-    "main.js": "/react-portfolio/static/js/main.0ff835ba.js",
+    "main.css": "/react-portfolio/static/css/main.81e4b700.css",
+    "main.js": "/react-portfolio/static/js/main.2d5e6a38.js",
     "static/media/socialNetwork.gif": "/react-portfolio/static/media/socialNetwork.ef539b44eb175196b768.gif",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/bg.jpg": "/react-portfolio/static/media/bg.55385c91823e29ff6916.jpg",
@@ -12,18 +12,18 @@
     "static/media/astronout.png": "/react-portfolio/static/media/astronout.b42be4cff9123f7fe6b8.png",
     "static/media/microtransaction.PNG": "/react-portfolio/static/media/microtransaction.cd9b71d2c8483e2bb0aa.PNG",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/ChauVanTam_CV.pdf": "/react-portfolio/static/media/ChauVanTam_CV.eb2bdcf577980dc4d3a1.pdf",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/contact-img.svg": "/react-portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/chatGPT2.PNG": "/react-portfolio/static/media/chatGPT2.9a824e733f7c623f6199.PNG",
-    "static/media/ChauVanTam_CV.pdf": "/react-portfolio/static/media/ChauVanTam_CV.c2b0483b20ccfaa503c9.pdf",
     "static/media/jate.PNG": "/react-portfolio/static/media/jate.ce6786cc1ee5991a5a09.PNG",
     "static/media/realTimeChat.PNG": "/react-portfolio/static/media/realTimeChat.b4e2ed0acab63111868b.PNG",
     "index.html": "/react-portfolio/index.html",
-    "main.157ed8af.css.map": "/react-portfolio/static/css/main.157ed8af.css.map",
-    "main.0ff835ba.js.map": "/react-portfolio/static/js/main.0ff835ba.js.map"
+    "main.81e4b700.css.map": "/react-portfolio/static/css/main.81e4b700.css.map",
+    "main.2d5e6a38.js.map": "/react-portfolio/static/js/main.2d5e6a38.js.map"
   },
   "entrypoints": [
-    "static/css/main.157ed8af.css",
-    "static/js/main.0ff835ba.js"
+    "static/css/main.81e4b700.css",
+    "static/js/main.2d5e6a38.js"
   ]
 }
